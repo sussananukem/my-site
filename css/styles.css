@@ -1,3 +1,32 @@
+
 body{
-  background-color: blue;
+  margin: 0;
 }
+
+h1{
+  margin-top: 0;
+}
+
+ .top-container{
+   background-color: #E9D5DA;
+   padding: 20px;
+   height: 200px;
+   width: 200px;
+   border: solid #827397 10px;
+ }
+
+ .middle-container{
+   background-color: #827397;
+   height: 200px;
+   width: 200px;
+   border: solid #4D4C7D 20px;
+   margin-left: 260px;
+ }
+
+ .bottom-container{
+   background-color: #4D4C7D;
+   height: 200px;
+   width: 200px;
+   margin-left: 500px;
+   border: solid #363062 10px;
+ }
