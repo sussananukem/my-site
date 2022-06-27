@@ -36,6 +36,7 @@ hr{
    border-width: 5px;
    border-color: #14274E;
    width: 5%;
+   margin: 100px auto;
 }
 
 .big{
@@ -50,6 +51,7 @@ hr{
 
 .middle-container {
   background-color: #ebf2fa;
+  padding-bottom: 50px;
  }
 
 
@@ -69,7 +71,7 @@ hr{
 }
 
 .profile{
-  padding: 100px 0;
+  padding: 100px 0 0;
  }
 
 .skill-row {
@@ -81,8 +83,7 @@ hr{
 }
 
 .skills{
-  padding: 50px 0 0;
-}
+ }
 
 .coding-img{
   float: left;
@@ -101,6 +102,7 @@ hr{
   color: white;
   text-decoration: none;
   padding: 20px;
+  font-family: Montserrat
 
 }
 
@@ -113,9 +115,8 @@ hr{
 }
 
 .contact-me{
-  padding: 20px 0;
-  width: 50%;
-  margin: auto;
+   width: 40%;
+  margin: auto ;
   line-height: 2;
 }
 
