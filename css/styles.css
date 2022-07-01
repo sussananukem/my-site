@@ -135,10 +135,10 @@ hr{
  }
 
 .btn:hover {
-  background: #3cb0fd;
+  background: #699eee;
 
-  background-image: linear-gradient(top, #3cb0fd, #3498db);
-   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  background-image: linear-gradient(top, #699eee, #3498db);
+   background-image: linear-gradient(to bottom, #699eee, #3498db);
   text-decoration: none;
 }
 
@@ -181,12 +181,24 @@ hr{
   margin: 0 20px 0 0;
   text-align: center;
   padding: 10px 0;
-  width: 12%;
+  width: 180px;
  }
 
 .navigation:hover{
-  background: #3cb0fd;
-   background-image: linear-gradient(top, #3cb0fd, #3498db);
-   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  background: #699eee;
+   background-image: linear-gradient(top, #699eee, #3498db);
+   background-image: linear-gradient(to bottom, #699eee, #3498db);
+  text-decoration: none;
+}
+
+/* TIME MACHINE */
+
+.time-text{
+  font-family: Montserrat;
+  padding: 20px;
+  font-weight: bold;
+}
+
+a{
   text-decoration: none;
 }
